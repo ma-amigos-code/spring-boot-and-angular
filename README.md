@@ -4,5 +4,5 @@ Note: Using PostgreSQL instead of MySQL
 
 ## GitHub sources from Course Author
 - [Backend](https://github.com/getarrays/server-backend)
-- [Frontend](https://github.com/getarrays/server-backend)
+- [Frontend](https://github.com/getarrays/serverapp)
 
