@@ -1,13 +1,13 @@
 spring:
   datasource:
-    password: letmein
-    url: jdbc:mysql://localhost:3306/serverdb
-    username: root
+    password: password
+    url: jdbc:postgresql://localhost:5432/serverdb
+    username: postgres
   jpa:
     hibernate:
       ddl-auto: create
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
+        dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
     show-sql: true
