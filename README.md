@@ -6,3 +6,4 @@ Note: Using PostgreSQL instead of MySQL
 - [Backend](https://github.com/getarrays/server-backend)
 - [Frontend](https://github.com/getarrays/serverapp)
 
+## [Frontend GitHub Project](https://github.com/ma-amigos-code/spring-boot-and-angular-frontend)
